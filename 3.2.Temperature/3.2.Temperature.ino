@@ -11,7 +11,7 @@ void setup() {
   pinMode(LED_BLUE, OUTPUT);
   pinMode(LED_GREEN, OUTPUT);
   pinMode(LED_RED, OUTPUT);
-  Serial.begin(9600);
+  Serial.begin(9600); //Откроем последовательный порт для общения с микроконтроллером
 }
 
 void loop() {
