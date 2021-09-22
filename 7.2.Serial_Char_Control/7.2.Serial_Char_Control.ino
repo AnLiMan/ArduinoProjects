@@ -9,7 +9,7 @@ void setup() {
 void loop() {
   //Предпринимаем действие только при наличии данных в буфере
 
-  if (Serial.availabe() > 0) {
+  if (Serial.available() > 0) {
     data = Serial.read();
     //Если отправили единицу, то включаем светодиод
     if (data == '1') {
