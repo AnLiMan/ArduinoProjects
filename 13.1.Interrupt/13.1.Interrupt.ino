@@ -37,7 +37,7 @@ void loop() {
   delay(1000);
 }
 
-void swap {
+void swap () {
   digitalWrite(selectedLED, HIGH);   //Выключаем текущий светодиод
   //Включаем следующие
   if (selectedLED == GREEN) {
