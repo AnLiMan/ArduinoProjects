@@ -8,38 +8,37 @@
 
 # Описание проектов
 
-1.1._Blink. Классика первого скетча. Hellow world, в мире микрокроллеров. Самое простое, что можно написать на ардуино без использования хоть какого-то дополнительного оборудования, смысл заключается в моргании встроенным в плату светодиодом с определённой периодичностью.
-2.1._LED_Turn_On. Просто включим внешнеий светодиод
-2.2._LED_Blinkю. Тоже самое, что и скетч "1.1._Blink", но теперь мы моргаем внешним сетодиодом
-2.3._LED_PWM. Управляем яркостью внешнего светодиода.
-2.4_2.5._Button.
-2.4_2.5._Button. 
-3.1.Pot_Analog_Read. 
-3.2.Temperature. 
-3.3.PhotoResistor. 
-4.1.Motor_auto. 
-4.2.Motor_manual.
-4.3.Motor_With_H-Bribge. 
-4.4.Mobile_Robot. 
-5.1.Servo. 
-5.2.rangefinder. 
-5.3.Stepper_motor. 
-5.3.Stepper_motor_butt. 
-5.4.Choronograph. 
-6.1.music. 
-7.1.Serial.print_tab. 
-7.2.Serial_Char_Control. 
-9.1.74CH595. 
-9.1.74CH595___2_. 
-10.1.Read_temp. 
-11.1.Orientation. 
-12.1.LCD_Text. 
-12.2.Progress_Bar. 
-12.3.LCD_Thermostat. 
-13.1.Interrupt. 
-13.2.Timer_interrupt. 
-Dragon_game_LCD. 
-Kalman. 
-LCD_I2C. 
-traffic_lights. 
-Traffic_light_update. 
+- 1.1._Blink. Классика первого скетча. Hellow world, в мире микрокроллеров. Самое простое, что можно написать на ардуино без использования хоть какого-то дополнительного оборудования, смысл заключается в моргании встроенным в плату светодиодом с определённой периодичностью.
+- 2.1._LED_Turn_On. Просто включим внешнеий светодиод
+- 2.2._LED_Blinkю. Тоже самое, что и скетч "1.1._Blink", но теперь мы моргаем внешним сетодиодом
+- 2.3._LED_PWM. Управляем яркостью внешнего светодиода.
+- 2.4_2.5._Button. 
+- 3.1.Pot_Analog_Read. 
+- 3.2.Temperature. 
+- 3.3.PhotoResistor. 
+- 4.1.Motor_auto. 
+- 4.2.Motor_manual.
+- 4.3.Motor_With_H-Bribge. 
+- 4.4.Mobile_Robot. 
+- 5.1.Servo. 
+- 5.2.rangefinder. 
+- 5.3.Stepper_motor. 
+- 5.3.Stepper_motor_butt. 
+- 5.4.Choronograph. 
+- 6.1.music. 
+- 7.1.Serial.print_tab. 
+- 7.2.Serial_Char_Control. 
+- 9.1.74CH595. 
+- 9.1.74CH595___2_. 
+- 10.1.Read_temp. 
+- 11.1.Orientation. 
+- 12.1.LCD_Text. 
+- 12.2.Progress_Bar. 
+- 12.3.LCD_Thermostat. 
+- 13.1.Interrupt. 
+- 13.2.Timer_interrupt. 
+- Dragon_game_LCD. 
+- Kalman. 
+- LCD_I2C. 
+- traffic_lights. 
+- Traffic_light_update. 
