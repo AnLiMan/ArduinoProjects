@@ -38,7 +38,7 @@
 - 13.1.Interrupt. Скетч с примерами на прерывания
 - 13.2.Timer_interrupt. Прерывания по таймеру
 - Dragon_game_LCD. Гугл динозаврик на дисплее 1602
-- Kalman. 
+- Kalman. Пример цифрового фильтра Калмана
 - LCD_I2C. Подключение цисплея 1602 по I2С
 - traffic_lights. Светофор
 - Traffic_light_update. 
