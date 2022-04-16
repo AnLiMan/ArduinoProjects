@@ -33,13 +33,14 @@
 - 10.1.Read_temp. 
 - 11.1.Orientation. 
 - 12.1.LCD_Text. 
-- 12.2.Progress_Bar. 
+- 12.2.Progress_Bar. Отображение полоски загрузки на дисплее 1602
 - 12.3.LCD_Thermostat. 
-- 13.1.Interrupt. 
-- 13.2.Timer_interrupt. 
-- Dragon_game_LCD. 
+- 13.1.Interrupt. Скетч с примерами на прерывания
+- 13.2.Timer_interrupt. Прерывания по таймеру
+- Dragon_game_LCD. Гугл динозаврик на дисплее 1602
 - Kalman. 
-- LCD_I2C. 
-- traffic_lights. 
+- LCD_I2C. Подключение цисплея 1602 по I2С
+- traffic_lights. Светофор
 - Traffic_light_update. 
-- JoystickRead
+- JoystickRead. Скетч для чтения значений со стандартного джойстики для ардуино
+- SensorKeyboard. Скетч для сенсорной клавиатуры на микросхеме TTP229 
