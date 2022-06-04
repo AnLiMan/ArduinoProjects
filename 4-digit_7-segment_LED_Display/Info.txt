@@ -1,0 +1,2 @@
+Дополнительные материалы:
+https://create.arduino.cc/projecthub/goarray/4-digit-7-segment-shift-register-counter-b7338d
